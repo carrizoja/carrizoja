@@ -13,7 +13,7 @@ tools: [React, Node],
 You can find me on 🌍:
 - [Linkedin](https://www.linkedin.com/in/jose-carrizo-dev/)
 
-[!Jose's github stats](https://github-readme-stats.vercel.app/api?username=carrizoja)|(https://github.com/carrizoja/github-readme-stats)
+[![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=carrizoja)](https://github.com/carrizoja/github-readme-stats)
 
 <!--
 **carrizoja/carrizoja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
