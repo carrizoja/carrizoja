@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+```js
+const carrizoja = {
+pronouns: "he" | "him",
+code:[Javascript, Typescript, C#, HTML, CSS],
+tools: [React, Node],
+
+}
+
 <!--
 **carrizoja/carrizoja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
