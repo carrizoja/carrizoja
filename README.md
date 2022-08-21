@@ -1,5 +1,7 @@
 ### Hi, I'm José 👋💻👨‍💻
 
+## About me in code
+
 ```js
 const carrizoja = {
 pronouns: "he" | "him",
@@ -10,7 +12,7 @@ tools: [React, Node],
 }
 ```
 
-You can find me on 🌍:
+## You can find me on 🌍:
 - [Linkedin](https://www.linkedin.com/in/jose-carrizo-dev/)
 
 [![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=carrizoja)](https://github.com/carrizoja/github-readme-stats)
