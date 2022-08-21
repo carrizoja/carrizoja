@@ -1,12 +1,19 @@
-### Hi there 👋
+### Hi, I'm José 👋💻👨‍💻
 
 ```js
 const carrizoja = {
 pronouns: "he" | "him",
+technologies: 'web', 'webApps',
+passions: ['performance web', 'web development']
 code:[Javascript, Typescript, C#, HTML, CSS],
 tools: [React, Node],
-
 }
+```
+
+You can find me on 🌍:
+- [Linkedin](https://www.linkedin.com/in/jose-carrizo-dev/)
+
+
 
 <!--
 **carrizoja/carrizoja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
