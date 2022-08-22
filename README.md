@@ -31,7 +31,8 @@ pronouns: "he" | "him",
 technologies: 'web', 'webApps',
 passions: ['performance web', 'web development']
 code:[Javascript, Typescript, C#, HTML, CSS],
-tools: [React, Node],
+tools: [React, Node, UML],
+hobbies: [languages, sports, books, series, movies]
 }
 ```
 
@@ -45,12 +46,10 @@ tools: [React, Node],
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working at iJac IT Solutions
+- 🌱 I’m currently learning UX/UI
+- 👯 I’m looking to collaborate on Node Js projects
+- 🤔 I’m looking for help with React Js
+- 💬 Ask me about web development and programming
+
 -->
