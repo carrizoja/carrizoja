@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jose-carrizo-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jose-carrizo-dev" height="30" width="40" /></a>
-<a href="https://instagram.com/carrizo.jose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carrizo.jose" height="30" width="40" /></a>
+<a href="https://instagram.com/carrizo.jose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carrizo.jose" height="30" width="45" /></a>
  <a href="mailto:jose.carrizo@ijac.com.ar"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="30" height="40" alt="gmail photo"></a>
 </p>
 
