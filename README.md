@@ -36,9 +36,6 @@ hobbies: [languages, sports, books, series, movies]
 }
 ```
 
-## You can find me on 🌍:
-- [Linkedin](https://www.linkedin.com/in/jose-carrizo-dev/)
-
 [![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=carrizoja)](https://github.com/carrizoja/github-readme-stats)
 
 <!--
