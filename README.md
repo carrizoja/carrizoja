@@ -44,8 +44,8 @@ technologies: ['web', 'webApps', 'desktopApps]
 passions: ['web development', 'networking', 'cybersecurity', 'technnicalSupport']
 code:[Javascript, Typescript, C#, HTML, CSS],
 tools: [React, Node, UML],
-hobbies: [sports, musicInstruments, books, series, movies],
-languages: [spanish, english, portuguese, italian, german, chinese, french],
+hobbies: ['sports', 'musicInstruments', 'books', 'series', 'movies'],
+languages: ['spanish', 'english', 'portuguese', 'italian','chinese', 'german', 'french'],
 }
 ```
 <br>
