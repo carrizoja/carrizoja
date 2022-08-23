@@ -3,6 +3,12 @@
 <h1 align="center">Hi 👋💻👨‍💻, I'm Jose</h1>
 <h3 align="center">I'm Systems Engineer and Full Stack developer from Argentina</h3>
 
+- 🔭 I’m currently working at iJac IT Solutions since 2013. I'm Freelancer 
+- 🌱 I’m currently learning UX/UI at Coderhouse.
+- 👯 I’m looking to collaborate on Node Js projects.
+- 🤔 I’m looking for help with React Js.
+- 💬 Ask me about web development and programming.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carrizoja&label=Profile%20views&color=0e75b6&style=flat" alt="carrizoja" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carrizoja" alt="carrizoja" /></a> </p>
@@ -34,20 +40,14 @@
 ```js
 const carrizoja = {
 pronouns: "he" | "him",
-technologies: 'web', 'webApps',
+technologies: ['web', 'webApps', 'desktopApps]
 passions: ['web development', 'networking', 'cybersecurity', 'technnicalSupport']
 code:[Javascript, Typescript, C#, HTML, CSS],
 tools: [React, Node, UML],
-hobbies: [languages, sports, books, series, movies]
+hobbies: [sports, musicInstruments, books, series, movies],
+languages: [spanish, english, portuguese, italian, german, chinese, french],
 }
 ```
 <br>
-
-
-- 🔭 I’m currently working at iJac IT Solutions
-- 🌱 I’m currently learning UX/UI
-- 👯 I’m looking to collaborate on Node Js projects
-- 🤔 I’m looking for help with React Js
-- 💬 Ask me about web development and programming
 
 
