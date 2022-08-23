@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋💻👨‍💻, I'm Jose</h1>
 <h3 align="center">I'm Systems Engineer and Full Stack developer from Argentina</h3>
 
-- 🔭 I’m currently working at iJac IT Solutions since 2013. I'm Freelancer 
+- 🔭 I’m currently working at iJac IT Solutions (Owner) since 2013. I'm Freelancer. 
 - 🌱 I’m currently learning UX/UI at Coderhouse.
 - 👯 I’m looking to collaborate on Node Js projects.
 - 🤔 I’m looking for help with React Js.
