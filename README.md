@@ -41,7 +41,7 @@
 const carrizoja = {
 pronouns: "he" | "him",
 technologies: ['web', 'webApps', 'desktopApps]
-passions: ['web development', 'networking', 'cybersecurity', 'technnicalSupport']
+passions: ['webDevelopment', 'networking', 'cybersecurity', 'technnicalSupport']
 code:[Javascript, Typescript, C#, HTML, CSS],
 tools: [React, Node, UML],
 hobbies: ['sports', 'musicInstruments', 'books', 'series', 'movies'],
