@@ -42,11 +42,11 @@
 ```js
 const carrizoja = {
 pronouns: "he" | "him",
-technologies: ['web', 'webApps', 'desktopApps]
-passions: ['webDevelopment', 'networking', 'cybersecurity', 'technnicalSupport']
+technologies: ['web', 'webApps', 'desktopApps', 'Apps']
+passions: ['webDevelopment', 'networking', 'cybersecurity', 'technnicalSupport', 'Cloud Infraestructure']
 code:[Javascript, Typescript, C#, Python, HTML, CSS],
-tools: [React, Angular, Node, UML],
-hobbies: ['sports', 'musicInstruments', 'toTravel', 'books', 'series', 'movies'],
+tools: [Astro, React, Next Js, Angular, Node, UML, AWS, Agile Methodology],
+hobbies: ['sports', 'musicInstruments', 'traveling', 'books', 'series', 'movies', 'gaming'],
 languages: ['spanish', 'english', 'portuguese', 'italian','chinese', 'german', 'french'],
 }
 ```
