@@ -4,7 +4,7 @@
 <h3 align="center">I'm Systems Engineer, Full Stack developer and Ux Ui Designer from Argentina</h3>
 
 - 🔭 I’m currently working at iJac IT Solutions (Owner) since 2013. I'm Freelancer. 
-- 🌱 I’m currently learning Cybersecurity and AWS at Coderhouse.
+- 🌱 I’m currently learning Data Science at Coderhouse.
 - 👯 I’m looking to collaborate on Python and Node Js projects.
 - 🤔 I’m looking for help with React Js and Python.
 - 💬 Ask me about web development and programming.
