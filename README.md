@@ -1,13 +1,12 @@
 
 
 <h1 align="center">Hi 👋💻👨‍💻, I'm Jose</h1>
-<h3 align="center">I'm Systems Engineer, Full Stack developer and Ux Ui Designer from Argentina</h3>
+<h3 align="center">I'm Systems Engineer, Full Stack developer and Ai Engineer from Argentina</h3>
 
 - 🔭 I’m currently working at iJac IT Solutions (Owner) since 2013. I'm Freelancer. 
-- 🌱 I’m currently learning Data Science at Coderhouse.
-- 👯 I’m looking to collaborate on Web Development, Python and Node Js projects.
-- 🤔 I’m looking for help with React Js and Python.
-- 💬 Ask me about web development and programming.
+- 🌱 I’m currently learning Ai Engineering.
+- 👯 I’m looking to collaborate on Ai Engineering, Automation and Data Science projects.
+- 💬 Ask me about Ai and programming.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carrizoja&label=Profile%20views&color=0e75b6&style=flat" alt="carrizoja" /> </p>
 
@@ -47,7 +46,7 @@ passions: ['webDevelopment', 'networking', 'cybersecurity', 'technnicalSupport',
 code:[Javascript, Typescript, C#, Python, HTML, CSS],
 tools: [Astro, React, Next Js, Angular, Node, UML, AWS, Agile Methodology],
 hobbies: ['sports', 'musicInstruments', 'traveling', 'books', 'series', 'movies', 'gaming'],
-languages: ['spanish', 'english', 'portuguese', 'italian','chinese', 'german', 'french'],
+languages: ['epanish', 'english', 'portuguese', 'italian','chinese', 'german', 'french'],
 }
 ```
 <br>
