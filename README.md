@@ -1,54 +1,126 @@
 
+# 👋 José Carrizo
+### Systems Engineer → AI Engineer in progress
 
-<h1 align="center">Hi 👋💻👨‍💻, I'm Jose</h1>
-<h3 align="center">I'm Systems Engineer, Full Stack developer and Ai Engineer from Argentina</h3>
+🚀 Passionate about **AI Agents**, **LLMs**, **RAGs**, **LangGraph** and **intelligent systems**. Building production-grade AI solutions with a systems engineering foundation.
 
-- 🔭 I’m currently working at iJac IT Solutions (Owner) since 2013. I'm Freelancer. 
-- 🌱 I’m currently learning Ai Engineering.
-- 👯 I’m looking to collaborate on Ai Engineering, Automation and Data Science projects.
-- 💬 Ask me about Ai and programming.
+Currently exploring **AI agent architectures**, **MCP integration**, and **autonomous workflows**.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carrizoja&label=Profile%20views&color=0e75b6&style=flat" alt="carrizoja" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carrizoja" alt="carrizoja" /></a> </p>
+## 🎯 Featured Projects
 
+### 🤖 [Enterprise-IT-Copilot](https://github.com/carrizoja/Enterprise-IT-Copilot)
+Production-oriented IT support assistant with **retrieval, reranking, workflow routing**, and **MCP-style operational tools**. A real-world example of AI agents in action.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jose-carrizo-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jose-carrizo-dev" height="30" width="40" /></a>
-<a href="https://instagram.com/carrizo.jose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carrizo.jose" height="30" width="45" /></a>
- <a href="mailto:jose.carrizo@ijac.com.ar"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="30" height="40" alt="gmail photo"></a>
+`Python` `LLMs` `MCP` `Workflow Routing`
+
+---
+
+### 🏪 [Optica Elcar Web](https://github.com/carrizoja/optica-elcar-web)
+Modern web presence for an optical store, showcasing e-commerce capabilities and customer-focused design.
+
+`Web Development` `Frontend` `Responsive Design`
+
+---
+
+### 🌱 [aiPlantV1.0](https://github.com/carrizoja/aiPlantV1.0)
+Python + Streamlit project with **AI integration** for intelligent plant analysis and insights.
+
+`Python` `Streamlit` `AI/ML` `Data Analysis`
+
+---
+
+### 📊 [NLP and Deep Learning Project](https://github.com/carrizoja/NLP-and-Deep-Learning-project)
+Data Science project using **IMDB dataset** with **NLP** and **Deep Learning** techniques. Foundation in ML/AI fundamentals.
+
+`Python` `NLP` `Deep Learning` `Pandas` `NumPy` `Seaborn`
+
+---
+
+### 🏢 [iJac-webApp](https://github.com/carrizoja/iJac-webApp)
+Full-stack operations platform for **work orders management** with **Google Calendar integration**. Demonstrates systems engineering at scale.
+
+`Next.js` `React` `Node.js` `Firebase` `Full-Stack`
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔤 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### ⚙️ Backend & AI/ML
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-FF6B6B?style=flat-square&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+### 🗄️ Databases & Tools
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## 📚 Currently Learning
+
+- 🧠 **Advanced AI Agent Patterns** — Exploring multi-agent systems and agent collaboration frameworks
+- 🔗 **RAG & Knowledge Management** — Building intelligent retrieval systems for LLM applications
+- 🛠️ **LangGraph & Workflow Orchestration** — Creating complex AI workflows at scale
+- 🚀 **Production AI Systems** — Deploying and scaling AI solutions in real-world environments
+
+---
+
+## 💼 Open to Opportunities
+
+I'm actively looking for opportunities to:
+- 🤖 Build **AI Agent systems** and intelligent automation solutions
+- 🔬 Contribute to **open-source AI projects**
+- 👥 Collaborate on **cutting-edge AI/ML initiatives**
+- 🌐 Help organizations **transform** with AI technology
+
+Feel free to reach out! 👇
+
+---
+
+## 📫 Connect with Me
+
+<a href="https://www.linkedin.com/in/jose-carrizo-dev/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:carrizoja@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://ijac.com.ar" target="_blank">
+  <img src="https://img.shields.io/badge/Website-ijac.com.ar-6366F1?style=for-the-badge" alt="Website">
+</a>
+
+---
+
+## 📊 GitHub Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=carrizoja&show_icons=true&theme=neutral&hide_border=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=carrizoja&theme=neutral&hide_border=true" alt="GitHub Streak" />
+
+---
+
+<p align="center">
+  <em>Always learning. Always building. Always improving.</em>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/147/242/png-transparent-amazon-com-logo-amazon-web-services-amazon-elastic-compute-cloud-amazon-virtual-private-cloud-cloud-computing-text-orange-logo-thumbnail.png" alt="aws" width="40" height="40"/> </a>
-<a href="https://python.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
- <a href="https://sparxsystems.com/" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_0b8322f146a8cd84d3fd4f953bcd5493/enterprise-architect.png" alt="enterprise architect" width="50" height="40"/> </a>
- <a href="https://handlebarsjs.com/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/788/393/png-clipart-handlebars-javascript-html-scalable-graphics-react-handlebars-javascript.png" alt="handlebars" width="40" height="40"/> </a>
-</p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carrizoja&show_icons=true&locale=en&layout=compact" alt="carrizoja" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carrizoja&show_icons=true&locale=en" alt="carrizoja" /></p>
-
-
-## About me in code
-
-```js
-const carrizoja = {
-pronouns: "he" | "him",
-technologies: ['web', 'webApps', 'desktopApps', 'Apps']
-passions: ['webDevelopment', 'networking', 'cybersecurity', 'technnicalSupport', 'Cloud Infraestructure']
-code:[Javascript, Typescript, C#, Python, HTML, CSS],
-tools: [Astro, React, Next Js, Angular, Node, UML, AWS, Agile Methodology],
-hobbies: ['sports', 'musicInstruments', 'traveling', 'books', 'series', 'movies', 'gaming'],
-languages: ['epanish', 'english', 'portuguese', 'italian','chinese', 'german', 'french'],
-}
-```
-<br>
-
 
